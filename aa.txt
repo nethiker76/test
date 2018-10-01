@@ -8,6 +8,7 @@ gfhfghfgh
 
 kokdjkldfdskfsdfsda
 
+<<<<<<< HEAD and dev
 hellllllllllo
 
 gdfgfdgfdggs-----
@@ -18,3 +19,5 @@ update new coding
 update new
 
 feel happy
+hellllllllllo   merge please
+
