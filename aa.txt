@@ -1,7 +1,10 @@
 total 12
 drwxr-xr-x 1 jimlin 197121 0 九月 30 19:18 ./
 modify~~~rwxr-xr-x 1 jimlin 197121 0 九月 30 19:12 ..
-dfdsfdsfs/
+dfdsfdsfsre/
+rerewrtretrytryr
+tytrytryrtytrytrytrytrygfh
+gfhfghfgh
 
 
 
