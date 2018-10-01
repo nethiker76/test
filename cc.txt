@@ -1,0 +1,32 @@
+95ea71b HEAD@{0}: checkout: moving from dev to master
+ffb1014 HEAD@{1}: checkout: moving from master to dev
+95ea71b HEAD@{2}: checkout: moving from dev to master
+ffb1014 HEAD@{3}: checkout: moving from master to dev
+95ea71b HEAD@{4}: checkout: moving from master to master
+95ea71b HEAD@{5}: merge dev: Merge made by the 'recursive' strategy.
+70452e9 HEAD@{6}: checkout: moving from dev to master
+ffb1014 HEAD@{7}: commit: five
+70452e9 HEAD@{8}: checkout: moving from dev to dev
+70452e9 HEAD@{9}: checkout: moving from master to dev
+70452e9 HEAD@{10}: checkout: moving from dev to master
+90c4c01 HEAD@{11}: checkout: moving from master to dev
+70452e9 HEAD@{12}: checkout: moving from dev to master
+90c4c01 HEAD@{13}: commit: five
+b77362e HEAD@{14}: checkout: moving from master to dev
+70452e9 HEAD@{15}: checkout: moving from dev to master
+b77362e HEAD@{16}: checkout: moving from b77362ecf918152e7d86b0245e7c3233faf2ddbe to dev
+b77362e HEAD@{17}: commit: four time
+70452e9 HEAD@{18}: reset: moving to 70452e9
+e98565b HEAD@{19}: checkout: moving from f1901c8dea22ed02274f807e3f363d10e3335a3b to e98565b
+f1901c8 HEAD@{20}: checkout: moving from e98565bffa3310f3808e33abb955d026701e5ed3 to f1901c8
+e98565b HEAD@{21}: checkout: moving from master to HEAD@{2}
+70452e9 HEAD@{22}: reset: moving to HEAD@{2}
+e98565b HEAD@{23}: reset: moving to e98565b
+e98565b HEAD@{24}: reset: moving to e98565b
+70452e9 HEAD@{25}: commit: third time
+1003cd7 HEAD@{26}: reset: moving to HEAD@{4}
+f1901c8 HEAD@{27}: reset: moving to f1901c8
+f1901c8 HEAD@{28}: reset: moving to f1901c8
+e98565b HEAD@{29}: commit: second
+f1901c8 HEAD@{30}: commit: second
+1003cd7 HEAD@{31}: commit (initial): change 1
